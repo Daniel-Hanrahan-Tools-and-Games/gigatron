@@ -304,3 +304,7 @@ Added in ROM v6:
 0b18    SYS_ReceiveSerial1_v6_32        Receive byte on input port (for the loader)
 
 ```
+
+
+
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/gigatron_necessary_files/tree/main">Necessary files found here</a>
