@@ -306,5 +306,9 @@ Added in ROM v6:
 ```
 
 
-
-<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/gigatron_necessary_files/tree/main">Necessary files found here</a>
+<h3>Necessary Files for Gigatron</h3>
+[Gigatron-manual.pdf](https://github.com/user-attachments/files/27108578/Gigatron-manual.pdf)
+[Gigatron_Rev_202012_OSH.zip](https://github.com/user-attachments/files/27107973/Gigatron_Rev_202012_OSH.zip)
+[PluggyMcPlugface.zip](https://github.com/user-attachments/files/27107946/PluggyMcPlugface.zip)
+[pluggy-manual.pdf](https://github.com/user-attachments/files/27107945/pluggy-manual.pdf)
+[Gigatron-BillOfMaterials.xlsx](https://github.com/user-attachments/files/27107944/Gigatron-BillOfMaterials.xlsx)
